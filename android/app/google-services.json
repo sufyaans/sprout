@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038763692135",
+    "project_id": "sprout-app-549d1",
+    "storage_bucket": "sprout-app-549d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038763692135:android:be47fed03f92cd552844c2",
+        "android_client_info": {
+          "package_name": "com.example.sprout_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAva5ey3LSUEx-GaqbH8a6N8uofvivVsOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
